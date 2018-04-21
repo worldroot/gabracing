@@ -1,0 +1,109 @@
+﻿
+body {
+    background-color: #000000;
+}
+
+article {
+    float: none;
+    background-color: #1E1E1E;
+}
+
+h1 {
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 20px;
+    color: #4DC9B1;
+}
+
+h2 {
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 18px;
+    color: #999999;
+}
+
+
+
+h3 {
+    font-family: Consolas;
+    font-weight: normal;
+    font-size: 14px;
+    color: #5B99D7;
+    margin-bottom: 0px;
+    padding-left: 5px;
+}
+
+p {
+    font-family: Consolas;
+    font-weight: normal;
+    font-size: 14px;
+    color: #DCDCDC;
+    padding-left: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+table {
+    border: thin;
+    background: #000000;
+}
+
+td {
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 20px;
+    color: #DCDCDC;
+    background: #1E1E1E;
+}
+
+.comment {
+    font-family: Consolas;
+    font-weight: normal;
+    font-size: 14px;
+    color: #448A3C;
+    padding-left: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.code-indent {
+    font-family: Consolas;
+    font-weight: normal;
+    font-size: 14px;
+    color: #DCDCDC;
+    padding-left: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+
+a {
+    font-family: Arial;
+    font-size: 20px;
+    color: yellow;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+.resource-link {
+    font-family: Consolas;
+    font-size: 14px;
+    color: #4DC9B1;
+    padding-left: 50px;
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #3F3E40;
+}
+
+
+xxxa {
+    color: #333;
+    outline: none;
+    padding-left: 3px;
+    padding-right: 3px;
+    text-decoration: underline;
+}
